@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "fcklmfgthl": "0.0.22",
+    "iss-elements": "0.0.3",
     "ng-conf-iss-elements": "0.0.12",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
